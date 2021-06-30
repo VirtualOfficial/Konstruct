@@ -4,5 +4,7 @@ The easiest way to create UI.
 Konstruct is built to simplify UI creation without taking away the quality. UI doesn't have to be difficult, and that's the main thing I want to show with this module.
 The module is powerful while staying easy-to-understand, so that any new user can get the hang of it in under 5 minutes.
 
+This module will **not** be releasing until late 2022.
+
 Installation Guide
 ------
